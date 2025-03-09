@@ -37,7 +37,7 @@ Aspiring Computer Science Engineer. I like software development and I have progr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
