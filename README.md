@@ -37,7 +37,7 @@ Aspiring Computer Science Engineer. I like software development and I have progr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -55,16 +55,16 @@ Aspiring Computer Science Engineer. I like software development and I have progr
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
-    <tr>
+<!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,gitlarun"/></td>
-    </tr>
+    </tr> -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio, colab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,colab"/></td>
     </tr>
-    <tr>
+<!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
+    </tr> -->
 </table>
