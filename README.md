@@ -41,11 +41,11 @@ Aspiring Computer Science Engineer. I like software development and I have progr
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,python,nodejs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,nodejs"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Game Engines and Hardware:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=unity,cs,arduino"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Game Engines:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=unity,cs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
@@ -59,10 +59,10 @@ Aspiring Computer Science Engineer. I like software development and I have progr
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,gitlarun"/></td>
     </tr> -->
-    <tr>
+<!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,colab"/></td>
-    </tr>
+    </tr> -->
 <!--     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
