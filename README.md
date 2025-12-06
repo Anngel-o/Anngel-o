@@ -1,20 +1,13 @@
-## Hi there 👋
+## Hi there :c
 
 <!--
 **Anngel-o/Anngel-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Anngel Ortiz
+### Hello World, I'm Anngel Ortiz
 
-Aspiring Computer Science Engineer. I like software development and I have programmed learning projects where I am honing my skills as a developer step by step. Currently, I lead and manage a vibrant video game development club named UACH Videogames Studio, where we participate in game jams, develop our own games and form an ever-growing community. I have worked in companies developing my skills as a future software engineer, mainly working in web technologies. I have also been part of the programming department at UACH Videogames Studio, but my main role is Junior Product Manager. 🚀
-
-
-- 🔭 I’m currently working on Product Manager at Cuacker Studios.
-- 🌱 I’m currently learning Leadership and project management.
-- 👯 I’m looking to collaborate on Passionate software development communities.
-- 🤔 I’m looking for help with Leadership of an indie video game studio.
-- ⚡ Fun fact: I am a jack of all trades and a master of none
+Aspiring Computer Science Engineer. I like software development and I have programmed learning projects where I am honing my skills as a developer step by step. Currently, I lead and manage a vibrant video game startup named **CuackerStudios**, where we participate in game jams, develop our own games and form an ever-growing community. I have worked in companies developing my skills as a future software engineer, mainly working in web technologies. I have also been part of the programming department at CuackerStudios, but my main role is Game Producer. 
 
 <br>
 <p align="center">
@@ -37,7 +30,7 @@ Aspiring Computer Science Engineer. I like software development and I have progr
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,react,figma"/></td>
     </tr>
     <!-- <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
