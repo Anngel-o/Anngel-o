@@ -7,7 +7,11 @@
 
 ### Hello World, I'm Anngel Ortiz
 
-Aspiring Computer Science Engineer. I like software development and I have programmed learning projects where I am honing my skills as a developer step by step. Currently, I lead and manage a vibrant video game startup named **CuackerStudios**, where we participate in game jams, develop our own games and form an ever-growing community. I have worked in companies developing my skills as a future software engineer, mainly working in web technologies. I have also been part of the programming department at CuackerStudios, but my main role is Game Producer. 
+Aspiring Computer Science Engineer. I like software development and I have programmed learning projects where I am honing my skills as a developer step by step. 
+
+Currently, I lead and manage a vibrant video game startup named **CuackerStudios**, where we participate in game jams, develop our own games and form an ever-growing community. 
+
+I have worked in companies developing my skills as a future software engineer, mainly working in web technologies. I have also been part of the programming department at CuackerStudios, but my main role is Game Producer. 
 
 <br>
 <p align="center">
